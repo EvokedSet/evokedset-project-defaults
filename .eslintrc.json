@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@evokedset/eslint-config-evokedset"
+  ]
+}

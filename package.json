@@ -1,0 +1,28 @@
+{
+  "name": "evokedset-project-defaults",
+  "version": "0.0.1",
+  "description": "Dotfiles and Configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mmgj@github.com/EvokedSet/evokedset-project-defaults.git"
+  },
+  "keywords": [
+    "defaults",
+    "presets",
+    "config",
+    "dotfiles"
+  ],
+  "author": "Martin Jacobsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvokedSet/evokedset-project-defaults/issues"
+  },
+  "homepage": "https://github.com/EvokedSet/evokedset-project-defaults#readme",
+  "dependencies": {
+    "@evokedset/eslint-config-evokedset": "^0.0.5"
+  }
+}
